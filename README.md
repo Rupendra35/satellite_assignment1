@@ -1,5 +1,8 @@
 # satellite_assigment
 
+
+loom = https://www.loom.com/share/8a03dc279bc744dc847ff126b3e50d8f
+
 # Satellite Intelligence Data Engineering Assignment
 
 ## Overview
