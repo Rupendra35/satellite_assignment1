@@ -1,0 +1,4 @@
+crop_type,mean_ndvi_before,mean_ndvi_after
+soybean,0.17,0.32
+sugarcane,0.173,0.337
+wheat,0.178,0.323
